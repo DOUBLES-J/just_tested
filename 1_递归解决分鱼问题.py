@@ -14,3 +14,4 @@ def fish(n):
 
 print(fish(1))
 print(fish(3))
+print(fish(4))
