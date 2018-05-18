@@ -13,3 +13,4 @@ def fish(n):
     return z * 5 + 1
 
 print(fish(1))
+print(fish(2))
